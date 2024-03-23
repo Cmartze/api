@@ -1,0 +1,19 @@
+*{
+    background-color: black;
+    color: aliceblue;
+}
+
+.avatar-image {
+    border-radius: 50%; 
+    width: auto; 
+    height: 95px; 
+  }
+  
+  body{
+    background-color: black;
+  }
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
